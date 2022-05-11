@@ -1,0 +1,11 @@
+{
+  "name": "frontendist",
+  "version": "1.0.0",
+  "description": "A frontendist production.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Bruton",
+  "license": "ISC"
+}
